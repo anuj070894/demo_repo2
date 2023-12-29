@@ -1,5 +1,6 @@
 # New demo for rebase
 # Demo 2
+# Demo 3
 !!!!New Text!!!!
 !!!!!New Text!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!New Text!!!!!
